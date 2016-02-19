@@ -6,4 +6,10 @@ class UsersController < ApplicationController
 		render :index
 	end
 
+	#Creates a new user
+	def new
+		@user = User.new
+		render :new
+	end	
+
 end
