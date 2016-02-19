@@ -12,5 +12,5 @@ Rails.application.routes.draw do
   #Routes for Users
   get "/users", to: "user#index", as: "users"
   get "/signup", to: "users#new", as: "new_user"
-  
+  post "/users", to: "users#create"
 end
