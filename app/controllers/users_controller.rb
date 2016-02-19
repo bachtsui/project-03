@@ -14,7 +14,6 @@ class UsersController < ApplicationController
 
 	def create
 		@user = User.new(user_params)
-
 		redirect_to user_path(@user)
 
 	# Use this Code when we create sessions
@@ -27,6 +26,12 @@ class UsersController < ApplicationController
   #     redirect_to new_user_path
   #   end
 	end
+
+	def show
+		@user = User.find_by_id(params[:id])
+		render :show
+	end
+
 
 	private
 
