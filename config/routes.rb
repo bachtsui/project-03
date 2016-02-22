@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   
   # Route for Splash Page 
   # Will need to Change this later
-  root to: "game#index"
+  root to: "welcome#index"
 
   # Routes for Games
   # Shouldn't need Create, Update, or Destroy since we'll seed the data from Giant Bomb's API
@@ -17,5 +17,6 @@ Rails.application.routes.draw do
 
   #Routes for Sessions
   get "/login", to: "sessions#new", as: "new_session"
-  post "/sessions", to: "sessions#create"
+  get "/logout", to: "sessions#destroy"
+  post "/sessions", to: "sessions#create", as: "destroy_session"
 end
