@@ -14,4 +14,8 @@ Rails.application.routes.draw do
   get "/signup", to: "users#new", as: "new_user"
   post "/users", to: "users#create"
   get "/users/:id", to: "users#show", as: "user"
+
+  #Routes for Sessions
+  get "/login", to: "sessions#new"
+  
 end
