@@ -14,3 +14,35 @@
  *= require_tree .
  *= require_self
  */
+
+.padding {
+	padding-top: 50px;
+}
+
+/* Probably don't need this
+.header {
+    padding-top: 30px;
+}*/
+
+/* Might need this later
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: -5px auto -60px;
+  padding: 0 0 200px;
+}
+
+#wrap > .container{
+  padding: -60px -15px 0;
+}*/
+
+.footer {
+  background-color: #19381F;
+  color: white;
+  height: 60px;
+}
+
+.copyright {
+  position: absolute;
+}
