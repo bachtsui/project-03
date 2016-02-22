@@ -16,6 +16,8 @@ Rails.application.routes.draw do
   get "/users/:id", to: "users#show", as: "user"
   get "/users/:id/edit", to: "users#edit", as: "edit_user" 
   patch "/users/:id", to: "users#update"
+  delete "/users/:id", to: "users#destroy"
+    #Ideally Destroy would make user inactive, find a way to do this
 
   #Routes for Sessions
   get "/login", to: "sessions#new", as: "new_session"

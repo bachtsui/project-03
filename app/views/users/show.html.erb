@@ -3,4 +3,16 @@
   Last Name: <%= @user.last_name %> <br>
   Email: <%= @user.email %> <br>
   Total Spent: <%= @user.spent %> <br>
+	
+	<% if current_user == @user %>
+    <div class="btn-group">
+      <div class = "button text-center">
+        <%= link_to "edit profile", edit_user_path(@user.id), class: 'btn btn-light center-block' %>
+      </div>
+      <div class = "button text-center">
+        <%= button_to "remove profile", @user, method: :delete, class: 'btn btn-light center-block'  %>
+      </div>
+    </div>
+  <% end %>
+
 </div>
