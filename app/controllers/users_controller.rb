@@ -19,13 +19,6 @@ class UsersController < ApplicationController
 
 	def create
 		@user = User.new(user_params)
-		redirect_to user_path(@user)
-
-		# Can take this out later
-		# login(@user)
-  	# redirect_to @user
-
-	# Use this Code when we create sessions
 
 		if @user.save
       login(@user) 
