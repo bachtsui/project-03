@@ -1,15 +1,14 @@
 class User < ActiveRecord::Base
 
 	#Will need this for clearing out the database
-	#has_many :games, dependent: :destroy
+	has_many :games, dependent: :destroy
 
-	# Will need validations later
-	# validates :email, presence: true, uniqueness: true,
- 	#  format: { with: /[^@\s]+@(?:[-a-z0-9]+\.)+[a-z]{2,}/i,
- 	#            message: 'format is invalid'}
+	validates :email, presence: true, uniqueness: true,
+ 	 format: { with: /[^@\s]+@(?:[-a-z0-9]+\.)+[a-z]{2,}/i,
+ 	           message: 'format is invalid'}
 
- 	#  validates :password, length: { in: 6...255},
- 	#             :on => :create
+ 	 validates :password, length: { in: 6...255},
+ 	            :on => :create
 
 	has_secure_password
 
