@@ -34,6 +34,24 @@ class UsersController < ApplicationController
 		render :show
 	end
 
+	def edit
+		@user = User.find_by_id(params[:id])
+		unless current_user == @user
+			redirect_to user_path(@user)
+			flash[:notice] = "You can only edit your own profile."
+		end
+	end
+
+	def update
+    @user = current_user
+    if @user.update(user_params)
+      redirect_to user_path(@user)
+      flash[:notice] = "Successfully Updated Profile"
+    else
+      flash[:error] = @user.errors.full_messages.join(", ")
+      redirect_to edit_user_path(@user)
+    end
+  end
 
 	private
 
