@@ -17,6 +17,6 @@ Rails.application.routes.draw do
 
   #Routes for Sessions
   get "/login", to: "sessions#new", as: "new_session"
-  get "/logout", to: "sessions#destroy"
-  post "/sessions", to: "sessions#create", as: "destroy_session"
+  get "/logout", to: "sessions#destroy", as: "destroy_session"
+  post "/sessions", to: "sessions#create"
 end

@@ -1,7 +1,7 @@
 class SessionsController < ApplicationController
 	# Might need this later
 	# before_action :logged_in?, only [:destroy]
-	before_action :logged_out?, only [:new, :create]
+	# before_action :logged_out?, only [:new, :create]
 
 	def new
 		@user = User.new
@@ -12,9 +12,7 @@ class SessionsController < ApplicationController
 		@user = User.confirm(user_params)
 		if @user
 			login(@user)
-			#redirect_to user_path(@user)
 			redirect_to @user
-			#believe this is the shortcut
 		else
 			redirect_to new_session_path
 		end		
