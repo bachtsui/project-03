@@ -65,6 +65,23 @@ class UsersController < ApplicationController
     end
   end
 
+  # Need to keep in mind if you're adding a game you own vs want
+  # Need a way to differentiate later
+  # Let's try to do the basic for now
+
+  def add_game
+  	user = current_user
+  	game = Game.find_by_id(params[:user][:game_id])
+
+  	if user.games.include?(game)
+  		flash[:notice] = "You already own this game"
+  	else
+  		user.games << game
+  		flash[:notice] = "You added the game to your portfolio"
+  	end
+  	redirect_to root_path
+  end
+
 	private
 
 	def user_params
