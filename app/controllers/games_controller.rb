@@ -9,6 +9,12 @@ class GamesController < ApplicationController
 	def show
 		game_id = params[:id]
 		@game = Game.find_by_id(game_id)
-		render :show
+
+		if current_user !=nil
+      @user = User.find_by_id(current_user.id)
+    else
+      current_user = nil
+    end
+    
 	end
 end
