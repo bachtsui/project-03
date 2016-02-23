@@ -25,9 +25,13 @@
             <%= link_to game_path(game) do %>
               <%= image_tag game.image %><br>
             <% end %>
-        </li>
-        <% end %>
+          </li>
       </ul>
+        <%= form_for @user, {url: delete_game_path(@user), method: :delete} do |f|  %>
+          <%= f.hidden_field :id, :value => @user.id %>
+          <%= f.hidden_field :game_id, :value => game.id %>
+          <%= f.submit "Delete",data: { confirm: "Are you sure?" }, class: "btn btn-default"  %>
+        <% end %>
+      <% end %>
     <% end %>
-
 </div>

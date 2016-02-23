@@ -1,4 +1,13 @@
 <div class="padding">
+	
+	<% flash.each do |name, msg| %>
+	  <div class="alert <%= name == 'error' ? 'alert-danger' : 'alert-info' %>">
+	    <div class="container">
+	      <%= msg %>
+	    </div>
+	  </div>
+	<% end %>  
+
 	<strong>Name:</strong> <%= @game.name %><br>
 	<strong>Developer:</strong> <%= @game.company %><br>
 	<strong>Publisher:</strong> <%= @game.publisher %><br>

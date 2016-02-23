@@ -1,16 +1,23 @@
 <div class="padding">
 <!-- Index for Games -->
+  <% flash.each do |name, msg| %>
+    <div class="alert <%= name == 'error' ? 'alert-danger' : 'alert-info' %>">
+      <div class="container">
+        <%= msg %>
+      </div>
+    </div>
+  <% end %>  
 
-<% @games.each do |game| %>
-  <p>
-    <strong>Name:</strong> <%= link_to game.name, game_path(game) %><br>
-   	<strong>Developer:</strong> <%= game.company %><br>
-   	<strong>Publisher:</strong> <%= game.publisher %><br>
-		<strong>Image:</strong>
-   		<%= link_to game_path(game) do %>
-   			<%= image_tag game.image %><br>
-   		<% end %>
-   	<strong>Release Date:</strong><%= game.release_date%><br>   	
-  </p>
-<% end %>
+  <% @games.each do |game| %>
+    <p>
+      <strong>Name:</strong> <%= link_to game.name, game_path(game) %><br>
+     	<strong>Developer:</strong> <%= game.company %><br>
+     	<strong>Publisher:</strong> <%= game.publisher %><br>
+  		<strong>Image:</strong>
+     		<%= link_to game_path(game) do %>
+     			<%= image_tag game.image %><br>
+     		<% end %>
+     	<strong>Release Date:</strong><%= game.release_date%><br>   	
+    </p>
+  <% end %>
 </div>

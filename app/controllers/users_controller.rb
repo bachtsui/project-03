@@ -79,7 +79,16 @@ class UsersController < ApplicationController
   		user.games << game
   		flash[:notice] = "You added the game to your portfolio"
   	end
-  	redirect_to root_path
+  	redirect_to games_path
+  end
+
+  def delete_game
+  	user = current_user
+  	game = Game.find_by_id(params[:user][:game_id])
+
+  	user.games.delete(game)
+  	flash[:notice] = "You remove the game from your collection"
+  	redirect_to user_path(user)
   end
 
 	private
