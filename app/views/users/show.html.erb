@@ -15,4 +15,23 @@
     </div>
   <% end %>
 
+  <h2> Games You Own </h2>
+    <% if @user.games == [] %>
+       "Have Games that You Own Appear Here!"
+    <% else %>
+      <ul>
+        <% @user.games.each do |game| %>
+          <li>
+            <%= link_to game_path(game) do %>
+              <%= image_tag game.image %><br>
+            <% end %>
+          </li>
+      </ul>
+        <%= form_for @user, {url: delete_game_path(@user), method: :delete} do |f|  %>
+          <%= f.hidden_field :id, :value => @user.id %>
+          <%= f.hidden_field :game_id, :value => game.id %>
+          <%= f.submit "Delete",data: { confirm: "Are you sure?" }, class: "btn btn-default"  %>
+        <% end %>
+      <% end %>
+    <% end %>
 </div>
