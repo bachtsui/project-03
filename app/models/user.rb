@@ -17,4 +17,6 @@ class User < ActiveRecord::Base
     @user.try(:authenticate, params[:password])
   end
 
+  has_many :dlcjoins
+  has_many :games, :through => :dlcjoins, dependent: :destroy 
 end
