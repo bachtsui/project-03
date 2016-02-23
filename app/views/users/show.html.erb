@@ -10,7 +10,7 @@
         <%= link_to "edit profile", edit_user_path(@user.id), class: 'btn btn-light center-block' %>
       </div>
       <div class = "button text-center">
-        <%= button_to "remove profile", @user, method: :delete, class: 'btn btn-light center-block'  %>
+        <%= button_to "Delete profile", @user, {method: :delete, data: {confirm: "Are you sure you want to delete your account?"}, class: "btn btn-danger btn-lg"}  %>
       </div>
     </div>
   <% end %>

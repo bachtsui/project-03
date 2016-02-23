@@ -1,7 +1,7 @@
 class User < ActiveRecord::Base
 
 	#Will need this for clearing out the database
-	has_many :games, dependent: :destroy
+	#has_many :games, dependent: :destroy
 
 	validates :email, presence: true, uniqueness: true,
  	 format: { with: /[^@\s]+@(?:[-a-z0-9]+\.)+[a-z]{2,}/i,
