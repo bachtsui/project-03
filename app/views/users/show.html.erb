@@ -16,7 +16,9 @@
   <% end %>
 
   <h2> Games You Own </h2>
-     
+    <% if @user.games == [] %>
+       "Have Games that You Own Appear Here!"
+    <% else %>
       <ul>
         <% @user.games.each do |game| %>
           <li>
@@ -26,5 +28,6 @@
         </li>
         <% end %>
       </ul>
+    <% end %>
 
 </div>
