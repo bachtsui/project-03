@@ -16,13 +16,9 @@
  */
 
 .padding {
-	padding-top: 50px;
+	padding-top: 20px;
 }
 
-/* Probably don't need this
-.header {
-    padding-top: 30px;
-}*/
 
 /* Might need this later
 #wrap {
@@ -45,4 +41,14 @@
 
 .copyright {
   position: absolute;
+}
+
+/*.boxart {
+  width: 10px;
+  height: 10px;
+}*/
+
+img {
+  max-width: 35%;
+  max-height: 35%;
 }
