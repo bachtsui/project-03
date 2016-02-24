@@ -48,7 +48,7 @@ img {
 }
 
 .footer {
-  background-color: #9D1309;
+  background-color: #9D1309; /*red apple color */
   color: white;
   height: 60px;
 }
@@ -56,6 +56,12 @@ img {
 .copyright {
   position: absolute;
   font-size:15px;
+}
+
+/*Used to center my forms*/
+.center_div{
+    margin: 0 auto;
+    width:50% /* value of your choice which suits your alignment */
 }
 
 
