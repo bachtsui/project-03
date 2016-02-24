@@ -15,10 +15,37 @@
  *= require_self
  */
 
+img {
+  max-width: 35%;
+  max-height: 35%;
+}
+
+
 .padding {
 	padding-top: 20px;
 }
 
+.nav {
+  padding-right: 25px;
+}
+
+.navbar-default .navbar-brand {
+  color: #e6af4b;  /*dark orange color for logo */
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+.navbar-default {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 15px;
+  background-color: #e05038; /*Tomato Red Banner*/
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
 
 /* Might need this later
 #wrap {
@@ -47,8 +74,4 @@
   width: 10px;
   height: 10px;
 }*/
-
-img {
-  max-width: 35%;
-  max-height: 35%;
-}
+ 
