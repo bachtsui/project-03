@@ -1,4 +1,13 @@
 <div class="padding">
+
+  <% flash.each do |name, msg| %>
+    <div class="alert <%= name == 'error' ? 'alert-danger' : 'alert-info' %>">
+      <div class="container">
+        <%= msg %>
+      </div>
+    </div>
+  <% end %>
+
   First Name: <%= @user.first_name %> <br>
   Last Name: <%= @user.last_name %> <br>
   Email: <%= @user.email %> <br>
