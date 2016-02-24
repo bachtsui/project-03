@@ -44,8 +44,20 @@ img {
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: white;
+  color: white;
 }
+
+.footer {
+  background-color: #9D1309;
+  color: white;
+  height: 60px;
+}
+
+.copyright {
+  position: absolute;
+  font-size:15px;
+}
+
 
 /* Might need this later
 #wrap {
@@ -59,16 +71,6 @@ img {
 #wrap > .container{
   padding: -60px -15px 0;
 }*/
-
-.footer {
-  background-color: #19381F;
-  color: white;
-  height: 60px;
-}
-
-.copyright {
-  position: absolute;
-}
 
 /*.boxart {
   width: 10px;
