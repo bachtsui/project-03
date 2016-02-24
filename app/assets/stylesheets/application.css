@@ -48,14 +48,28 @@ img {
 }
 
 .footer {
-  background-color: #9D1309; /*red apple color */
+  background-color: #9D1309; red apple color 
   color: white;
   height: 60px;
+}
+
+/* Seems like wrap is used to get footer to fix to the bottom*/
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: -5px auto -60px;
+  padding: 0 0 200px;
+}
+
+#wrap > .container{
+  padding: -60px -15px 0;
 }
 
 .copyright {
   position: absolute;
   font-size:15px;
+  color:white;
 }
 
 /*Used to center my forms*/
@@ -64,6 +78,9 @@ img {
     width:50% /* value of your choice which suits your alignment */
 }
 
+.game-center{
+  text-align: center;
+}
 
 /* Might need this later
 #wrap {
