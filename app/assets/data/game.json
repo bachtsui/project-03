@@ -1,0 +1,753 @@
+{
+  "results": [{
+    "expected_release_day": 1,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Heavy Rain",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 1,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/9\/97089\/2823043-box.png",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/9\/97089\/2823043-box.png",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/9\/97089\/2823043-box.png",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/9\/97089\/2823043-box.png",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/9\/97089\/2823043-box.png",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/9\/97089\/2823043-box.png",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/9\/97089\/2823043-box.png"
+    },
+    "name": "Return to PopoloCrois: A Story of Seasons Fairytale",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-117\/",
+      "id": 117,
+      "name": "Nintendo 3DS"
+    }
+  }, {
+    "expected_release_day": 1,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Return to PopoloCrois: A Story of Seasons Fairytale",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-138\/",
+      "id": 138,
+      "name": "Nintendo 3DS eShop"
+    }
+  }, {
+    "expected_release_day": 1,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/16\/164924\/2822486-1936342593-81M6B.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/16\/164924\/2822486-1936342593-81M6B.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/16\/164924\/2822486-1936342593-81M6B.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/16\/164924\/2822486-1936342593-81M6B.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/16\/164924\/2822486-1936342593-81M6B.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/16\/164924\/2822486-1936342593-81M6B.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/16\/164924\/2822486-1936342593-81M6B.jpg"
+    },
+    "name": "Mortal Kombat XL",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 1,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/16\/164924\/2822485-6443626982-81D5d.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/16\/164924\/2822485-6443626982-81D5d.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/16\/164924\/2822485-6443626982-81D5d.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/16\/164924\/2822485-6443626982-81D5d.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/16\/164924\/2822485-6443626982-81D5d.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/16\/164924\/2822485-6443626982-81D5d.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/16\/164924\/2822485-6443626982-81D5d.jpg"
+    },
+    "name": "Mortal Kombat XL",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 1,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/84290\/2826350-6593586711-image",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/84290\/2826350-6593586711-image",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/84290\/2826350-6593586711-image",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/84290\/2826350-6593586711-image",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/84290\/2826350-6593586711-image",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/84290\/2826350-6593586711-image",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/84290\/2826350-6593586711-image"
+    },
+    "name": "TRON RUN\/r",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 1,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/84290\/2826350-6593586711-image",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/84290\/2826350-6593586711-image",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/84290\/2826350-6593586711-image",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/84290\/2826350-6593586711-image",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/84290\/2826350-6593586711-image",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/84290\/2826350-6593586711-image",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/84290\/2826350-6593586711-image"
+    },
+    "name": "TRON RUN\/r",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 1,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/84290\/2826350-6593586711-image",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/84290\/2826350-6593586711-image",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/84290\/2826350-6593586711-image",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/84290\/2826350-6593586711-image",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/84290\/2826350-6593586711-image",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/84290\/2826350-6593586711-image",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/84290\/2826350-6593586711-image"
+    },
+    "name": "TRON RUN\/r",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 1,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/26\/262434\/2826624-5733904272-image",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/26\/262434\/2826624-5733904272-image",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/26\/262434\/2826624-5733904272-image",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/26\/262434\/2826624-5733904272-image",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/26\/262434\/2826624-5733904272-image",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/26\/262434\/2826624-5733904272-image",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/26\/262434\/2826624-5733904272-image"
+    },
+    "name": "Screencheat",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 2,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "BlazBlue: Chrono Phantasma Extend",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+      "id": 94,
+      "name": "PC"
+    }
+  }, {
+    "expected_release_day": 3,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/30\/302687\/2805901-atelier+shallie+plus.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/30\/302687\/2805901-atelier+shallie+plus.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/30\/302687\/2805901-atelier+shallie+plus.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/30\/302687\/2805901-atelier+shallie+plus.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/30\/302687\/2805901-atelier+shallie+plus.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/30\/302687\/2805901-atelier+shallie+plus.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/30\/302687\/2805901-atelier+shallie+plus.jpg"
+    },
+    "name": "Shallie no Atelier Plus: Tasogare no Umi no Renkinjutsushi",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-129\/",
+      "id": 129,
+      "name": "PlayStation Vita"
+    }
+  }, {
+    "expected_release_day": 3,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Gochumon wa Usagi Desu ka?? Wonderful Party!",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-129\/",
+      "id": 129,
+      "name": "PlayStation Vita"
+    }
+  }, {
+    "expected_release_day": 3,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Chasing Dead",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-139\/",
+      "id": 139,
+      "name": "Wii U"
+    }
+  }, {
+    "expected_release_day": 3,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Chasing Dead",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-139\/",
+      "id": 139,
+      "name": "Wii U"
+    }
+  }, {
+    "expected_release_day": 3,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Chasing Dead",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+      "id": 94,
+      "name": "PC"
+    }
+  }, {
+    "expected_release_day": 3,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Chasing Dead",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+      "id": 94,
+      "name": "PC"
+    }
+  }, {
+    "expected_release_day": 4,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/16\/164924\/2797880-7155654703-22960.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/16\/164924\/2797880-7155654703-22960.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/16\/164924\/2797880-7155654703-22960.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/16\/164924\/2797880-7155654703-22960.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/16\/164924\/2797880-7155654703-22960.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/16\/164924\/2797880-7155654703-22960.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/16\/164924\/2797880-7155654703-22960.jpg"
+    },
+    "name": "The Legend of Zelda: Twilight Princess HD (eShop)",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-139\/",
+      "id": 139,
+      "name": "Wii U"
+    }
+  }, {
+    "expected_release_day": 4,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/82063\/2815108-91cnkdonsml._sl1500_.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/82063\/2815108-91cnkdonsml._sl1500_.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/82063\/2815108-91cnkdonsml._sl1500_.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/82063\/2815108-91cnkdonsml._sl1500_.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/82063\/2815108-91cnkdonsml._sl1500_.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/82063\/2815108-91cnkdonsml._sl1500_.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/82063\/2815108-91cnkdonsml._sl1500_.jpg"
+    },
+    "name": "The Legend of Zelda: Twilight Princess HD",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-139\/",
+      "id": 139,
+      "name": "Wii U"
+    }
+  }, {
+    "expected_release_day": 4,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/82063\/2815110-tphdmiibna.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/82063\/2815110-tphdmiibna.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/82063\/2815110-tphdmiibna.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/82063\/2815110-tphdmiibna.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/82063\/2815110-tphdmiibna.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/82063\/2815110-tphdmiibna.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/82063\/2815110-tphdmiibna.jpg"
+    },
+    "name": "The Legend of Zelda: Twilight Princess HD + amiibo",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-139\/",
+      "id": 139,
+      "name": "Wii U"
+    }
+  }, {
+    "expected_release_day": 4,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/82063\/2818055-tphdleeu.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/82063\/2818055-tphdleeu.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/82063\/2818055-tphdleeu.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/82063\/2818055-tphdleeu.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/82063\/2818055-tphdleeu.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/82063\/2818055-tphdleeu.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/82063\/2818055-tphdleeu.jpg"
+    },
+    "name": "The Legend of Zelda: Twilight Princess HD (Limited Edition) + amiibo + Audio CD",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-139\/",
+      "id": 139,
+      "name": "Wii U"
+    }
+  }, {
+    "expected_release_day": 5,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/82063\/2825689-packshot.png",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/82063\/2825689-packshot.png",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/82063\/2825689-packshot.png",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/82063\/2825689-packshot.png",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/82063\/2825689-packshot.png",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/82063\/2825689-packshot.png",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/82063\/2825689-packshot.png"
+    },
+    "name": "The Legend of Zelda: Twilight Princess HD (Limited Edition) + amiibo + Audio CD",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-139\/",
+      "id": 139,
+      "name": "Wii U"
+    }
+  }, {
+    "expected_release_day": 5,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/82063\/2825690-tphdau.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/82063\/2825690-tphdau.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/82063\/2825690-tphdau.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/82063\/2825690-tphdau.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/82063\/2825690-tphdau.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/82063\/2825690-tphdau.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/82063\/2825690-tphdau.jpg"
+    },
+    "name": "The Legend of Zelda: Twilight Princess HD",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-139\/",
+      "id": 139,
+      "name": "Wii U"
+    }
+  }, {
+    "expected_release_day": 6,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/84290\/2827474-5560314112-heade.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/84290\/2827474-5560314112-heade.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/84290\/2827474-5560314112-heade.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/84290\/2827474-5560314112-heade.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/84290\/2827474-5560314112-heade.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/84290\/2827474-5560314112-heade.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/84290\/2827474-5560314112-heade.jpg"
+    },
+    "name": "Ultimate Chicken Horse",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+      "id": 94,
+      "name": "PC"
+    }
+  }, {
+    "expected_release_day": 8,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Tom Clancy's The Division",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 8,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/9\/95676\/2643695-91kqlyxfarl.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/9\/95676\/2643695-91kqlyxfarl.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/9\/95676\/2643695-91kqlyxfarl.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/9\/95676\/2643695-91kqlyxfarl.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/9\/95676\/2643695-91kqlyxfarl.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/9\/95676\/2643695-91kqlyxfarl.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/9\/95676\/2643695-91kqlyxfarl.jpg"
+    },
+    "name": "Tom Clancy's The Division",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 8,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Tom Clancy's The Division",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 8,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/9\/95676\/2643696-91e0ap-t0pl._sl1500_.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/9\/95676\/2643696-91e0ap-t0pl._sl1500_.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/9\/95676\/2643696-91e0ap-t0pl._sl1500_.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/9\/95676\/2643696-91e0ap-t0pl._sl1500_.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/9\/95676\/2643696-91e0ap-t0pl._sl1500_.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/9\/95676\/2643696-91e0ap-t0pl._sl1500_.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/9\/95676\/2643696-91e0ap-t0pl._sl1500_.jpg"
+    },
+    "name": "Tom Clancy's The Division",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 8,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Tom Clancy's The Division",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 8,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Tom Clancy's The Division",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 8,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/9\/95676\/2643694-91pvshkpjfl._sl1500_.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/9\/95676\/2643694-91pvshkpjfl._sl1500_.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/9\/95676\/2643694-91pvshkpjfl._sl1500_.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/9\/95676\/2643694-91pvshkpjfl._sl1500_.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/9\/95676\/2643694-91pvshkpjfl._sl1500_.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/9\/95676\/2643694-91pvshkpjfl._sl1500_.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/9\/95676\/2643694-91pvshkpjfl._sl1500_.jpg"
+    },
+    "name": "Tom Clancy's The Division",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+      "id": 94,
+      "name": "PC"
+    }
+  }, {
+    "expected_release_day": 8,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Tom Clancy's The Division",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+      "id": 94,
+      "name": "PC"
+    }
+  }, {
+    "expected_release_day": 8,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Tom Clancy's The Division",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+      "id": 94,
+      "name": "PC"
+    }
+  }, {
+    "expected_release_day": 10,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/9\/97089\/2807708-ps4.png",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/9\/97089\/2807708-ps4.png",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/9\/97089\/2807708-ps4.png",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/9\/97089\/2807708-ps4.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/9\/97089\/2807708-ps4.png",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/9\/97089\/2807708-ps4.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/9\/97089\/2807708-ps4.png"
+    },
+    "name": "Summon Night 6: Lost Borders",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 10,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/9\/97089\/2813585-vita.png",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/9\/97089\/2813585-vita.png",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/9\/97089\/2813585-vita.png",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/9\/97089\/2813585-vita.png",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/9\/97089\/2813585-vita.png",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/9\/97089\/2813585-vita.png",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/9\/97089\/2813585-vita.png"
+    },
+    "name": "Summon Night 6: Lost Borders",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-129\/",
+      "id": 129,
+      "name": "PlayStation Vita"
+    }
+  }, {
+    "expected_release_day": 10,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/82063\/2815107-81pipyfiyml._sl1131_.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/82063\/2815107-81pipyfiyml._sl1131_.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/82063\/2815107-81pipyfiyml._sl1131_.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/82063\/2815107-81pipyfiyml._sl1131_.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/82063\/2815107-81pipyfiyml._sl1131_.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/82063\/2815107-81pipyfiyml._sl1131_.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/82063\/2815107-81pipyfiyml._sl1131_.jpg"
+    },
+    "name": "The Legend of Zelda: Twilight Princess HD",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-139\/",
+      "id": 139,
+      "name": "Wii U"
+    }
+  }, {
+    "expected_release_day": 10,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/82063\/2815111-tphdmiibjp.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/82063\/2815111-tphdmiibjp.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/82063\/2815111-tphdmiibjp.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/82063\/2815111-tphdmiibjp.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/82063\/2815111-tphdmiibjp.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/82063\/2815111-tphdmiibjp.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/82063\/2815111-tphdmiibjp.jpg"
+    },
+    "name": "The Legend of Zelda: Twilight Princess HD (Special Edition)",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-139\/",
+      "id": 139,
+      "name": "Wii U"
+    }
+  }, {
+    "expected_release_day": 10,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/0\/9536\/2820911-6780900170-71-hN.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/0\/9536\/2820911-6780900170-71-hN.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/0\/9536\/2820911-6780900170-71-hN.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/0\/9536\/2820911-6780900170-71-hN.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/0\/9536\/2820911-6780900170-71-hN.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/0\/9536\/2820911-6780900170-71-hN.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/0\/9536\/2820911-6780900170-71-hN.jpg"
+    },
+    "name": "Fire Emblem Fates: Revelation",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-138\/",
+      "id": 138,
+      "name": "Nintendo 3DS eShop"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Hitman (Collector's Edition)",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/26\/262434\/2824647-2651463275-image",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/26\/262434\/2824647-2651463275-image",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/26\/262434\/2824647-2651463275-image",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/26\/262434\/2824647-2651463275-image",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/26\/262434\/2824647-2651463275-image",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/26\/262434\/2824647-2651463275-image",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/26\/262434\/2824647-2651463275-image"
+    },
+    "name": "Blast 'Em Bunnies",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Hitman",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+      "id": 94,
+      "name": "PC"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Hitman",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+      "id": 94,
+      "name": "PC"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Hitman",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Hitman",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Hitman",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Hitman",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Hitman (Collector's Edition)",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Hitman (Collector's Edition)",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-145\/",
+      "id": 145,
+      "name": "Xbox One"
+    }
+  }, {
+    "expected_release_day": 11,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Hitman (Collector's Edition)",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 15,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": null,
+    "name": "Samurai Warriors 4: Empires",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-146\/",
+      "id": 146,
+      "name": "PlayStation 4"
+    }
+  }, {
+    "expected_release_day": 17,
+    "expected_release_month": 3,
+    "expected_release_year": 2016,
+    "image": {
+      "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/30\/307129\/2825812-1826267413-DWNO_.jpg",
+      "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/30\/307129\/2825812-1826267413-DWNO_.jpg",
+      "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/30\/307129\/2825812-1826267413-DWNO_.jpg",
+      "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/30\/307129\/2825812-1826267413-DWNO_.jpg",
+      "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/30\/307129\/2825812-1826267413-DWNO_.jpg",
+      "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/30\/307129\/2825812-1826267413-DWNO_.jpg",
+      "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/30\/307129\/2825812-1826267413-DWNO_.jpg"
+    },
+    "name": "Digimon World: Next Order",
+    "platform": {
+      "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-129\/",
+      "id": 129,
+      "name": "PlayStation Vita"
+    }
+  }],
+}

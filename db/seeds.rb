@@ -2,6 +2,18 @@
 
 Game.destroy_all
 
+### User Seed Data ######
+User.create({
+	first_name: "Doug",
+	last_name: "Tsui",
+	email: "dt@gmail.com",
+	password: "123456",
+	password_confirmation: "123456",
+	spent: 0.00
+})
+
+
+### Game Seed Data ####
 Game.create({
 	name: "Super Mario RPG",
 	company: "Square",

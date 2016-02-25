@@ -15,34 +15,77 @@
  *= require_self
  */
 
+img {
+  max-width: 35%;
+  max-height: 35%;
+}
+
+
 .padding {
-	padding-top: 50px;
+	padding-top: 20px;
 }
 
-/* Probably don't need this
-.header {
-    padding-top: 30px;
-}*/
-
-/* Might need this later
-#wrap {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  margin: -5px auto -60px;
-  padding: 0 0 200px;
+.nav {
+  padding-right: 25px;
 }
 
-#wrap > .container{
-  padding: -60px -15px 0;
-}*/
+.navbar-default .navbar-brand {
+  color: #e6af4b;  /*dark orange color for logo */
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+.navbar-default {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 15px;
+  background-color: #e05038; /*Tomato Red Banner*/
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: white;
+}
 
 .footer {
-  background-color: #19381F;
+  background-color: #9D1309;
   color: white;
-  height: 60px;
+  height: 0px; /*Not using a footer for now, need to figure out how to make sticky */
 }
+
 
 .copyright {
   position: absolute;
+  font-size:15px;
+  color:white;
 }
+
+/*Used to center my forms*/
+.center_div{
+    margin: 0 auto;
+    width:50% /* value of your choice which suits your alignment */
+}
+
+.game-center{
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+/*.jumbotron {
+  background-image: url(http://rockstartemplate.com/blogheaders/bannerdesign2.jpg);
+  background-repeat: no-repeat;
+  height: 465px;
+  color:white;
+  background-position: 50%;
+  background-color: white;
+}
+
+.text_overlay { 
+  position: absolute; 
+  top: 100px; 
+  right: 455px; 
+  width: 100%; 
+}*/

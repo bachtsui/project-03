@@ -1,5 +1,42 @@
-<strong>Name:</strong> <%= @game.name %><br>
-<strong>Developer:</strong> <%= @game.company %><br>
-<strong>Publisher:</strong> <%= @game.publisher %><br>
-<strong>Image:</strong><img src= <%= @game.image%>/><br>
-<strong>Release Date:</strong><%= @game.release_date%><br>
+<div class="padding">
+
+	<% flash.each do |name, msg| %>
+	  <div class="alert <%= name == 'error' ? 'alert-danger' : 'alert-info' %>">
+	    <div class="container">
+	      <%= msg %>
+	    </div>
+	  </div>
+	<% end %>  
+
+	<div class ="container">
+		<div class="row">
+			<div class="game-center">
+				<img src= <%= @game.image%>/><br>
+				<strong>Name:</strong> <%= @game.name %><br>
+				<strong>Developer:</strong> <%= @game.company %><br>
+				<strong>Publisher:</strong> <%= @game.publisher %><br>
+				<strong>Release Date:</strong><%= @game.release_date%><br>
+
+
+				<% if current_user != nil %>
+					<%= form_for @user, {url: add_game_path(@user), method: :post} do |f|  %>
+						<%= f.hidden_field :id, :value => @user.id %>
+						<%= f.hidden_field :game_id, :value => params[:id] %>
+						<%= f.submit "Add Game to Profile", class: "btn btn-default" %>
+					<% end %>
+				<%end%>
+			</div>
+		</div>	
+		<!-- 
+			Note to Self, the idea is that the form takes the value
+			of the current User ID that's logged  and also takes
+			the game ID from the url params. Hitting the submit
+			button will transfer the params back to our controller. 
+			
+			I also need to keep in mind this form will need to change
+			a little bit when you need to decide between owning a game
+			and wanting a game.
+		-->
+	</div>
+</div>
+
