@@ -48,23 +48,11 @@ img {
 }
 
 .footer {
-  background-color: #9D1309; red apple color 
+  background-color: #9D1309;
   color: white;
-  height: 60px;
+  height: 0px; /*Not using a footer for now, need to figure out how to make sticky */
 }
 
-/* Seems like wrap is used to get footer to fix to the bottom*/
-#wrap {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  margin: -5px auto -60px;
-  padding: 0 0 200px;
-}
-
-#wrap > .container{
-  padding: -60px -15px 0;
-}
 
 .copyright {
   position: absolute;
@@ -82,21 +70,22 @@ img {
   text-align: center;
 }
 
-/* Might need this later
-#wrap {
-  min-height: 100%;
-  height: auto !important;
-  height: 100%;
-  margin: -5px auto -60px;
-  padding: 0 0 200px;
+li {
+  list-style-type: none;
 }
 
-#wrap > .container{
-  padding: -60px -15px 0;
-}*/
+/*.jumbotron {
+  background-image: url(http://rockstartemplate.com/blogheaders/bannerdesign2.jpg);
+  background-repeat: no-repeat;
+  height: 465px;
+  color:white;
+  background-position: 50%;
+  background-color: white;
+}
 
-/*.boxart {
-  width: 10px;
-  height: 10px;
+.text_overlay { 
+  position: absolute; 
+  top: 100px; 
+  right: 455px; 
+  width: 100%; 
 }*/
- 
