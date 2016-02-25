@@ -50,7 +50,7 @@ Game.create({
 	name: "Super Smash Bros. Melee",
 	company: "HAL Laboratory",
 	publisher: "Nintendo",
-	image: "https://vgboxart.com/boxes/GCN/1323-super-smash-bros-melee-2.jpg",
+	image: "https://upload.wikimedia.org/wikipedia/en/7/75/Super_Smash_Bros_Melee_box_art.png",
 	release_date: "December 3, 2001"
 })
 
