@@ -37,3 +37,62 @@ Game.create({
 	image: "http://static.giantbomb.com/uploads/original/0/2130/1369577-devil_may_cry_3_dvd_ntsc_front.jpg",
 	release_date: "February 17, 2005"
 })
+
+Game.create({
+	name: "Street Fighter II",
+	company: "Capcom",
+	publisher: "Capcom",
+	image: "",
+	release_date: ""
+})
+
+Game.create({
+	name: "Super Smash Bros. Melee",
+	company: "HAL",
+	publisher: "Nintendo",
+	image: "",
+	release_date: ""
+})
+
+Game.create({
+	name: "Sonic the Hedgehog II",
+	company: "Sega",
+	publisher: "Sega",
+	image: "",
+	release_date: ""
+})
+
+Game.create({
+	name: "Pokemon Blue",
+	company: "Gamefreak",
+	publisher: "Nintendo",
+	image: "",
+	release_date: ""
+})
+
+Game.create({
+	name: "Undertale",
+	company: "Toby Fox",
+	publisher: "N/A",
+	image: "",
+	release_date: ""
+})
+
+Game.create({
+	name: "Starcraft",
+	company: "Blizzard",
+	publisher: "Blizzard",
+	image: "",
+	release_date: ""
+})
+
+Game.create({
+	name: "The Legend of Zelda: Wind Waker",
+	company: "Nintendo",
+	publisher: "Nintendo",
+	image: "",
+	release_date: ""
+})
+
+
+
